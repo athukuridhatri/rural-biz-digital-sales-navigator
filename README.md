@@ -57,11 +57,6 @@ This project was developed for the **Women Who Master Hackathon 2026**.
 
 [Open Rural Biz Digital Sales Navigator](https://partyrock.aws/u/Dhatri123/pU9XlAvzH/RuralBiz-Digital-Sales-Navigator)
 
-## 📸 Screenshots
-
-Screenshots of the application will be added here.
-
----
 
 ### 👩‍💻 Project By
 
